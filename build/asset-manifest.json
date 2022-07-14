@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9d13d8e5.css",
+    "main.js": "/static/js/main.acd74716.js",
+    "static/media/Home.png": "/static/media/Home.3ecabd574e626eb1d8bb.png",
+    "static/media/Our portfolio_03.png": "/static/media/Our portfolio_03.d822806bb522eb89230d.png",
+    "static/media/Our portfolio_06.png": "/static/media/Our portfolio_06.400494793bc294dd662d.png",
+    "static/media/Our portfolio_02.png": "/static/media/Our portfolio_02.07e0a82e32e55795627d.png",
+    "static/media/Our portfolio_05.png": "/static/media/Our portfolio_05.38d8819f6717795d7371.png",
+    "static/media/Our portfolio_04.png": "/static/media/Our portfolio_04.2cdc378a19a0256ff9d3.png",
+    "static/media/Our portfolio_01.png": "/static/media/Our portfolio_01.b754e373a079a95f58c0.png",
+    "static/media/undraw_social_networking_nqk4.png": "/static/media/undraw_social_networking_nqk4.dc72c3dae2e96a0d42e1.png",
+    "static/media/gettyimages-507480872-612x612.png": "/static/media/gettyimages-507480872-612x612.332348ba0899fbaefd23.png",
+    "static/media/undraw_about_me_wa29.png": "/static/media/undraw_about_me_wa29.c93f6c79df188c46b4cf.png",
+    "index.html": "/index.html",
+    "main.9d13d8e5.css.map": "/static/css/main.9d13d8e5.css.map",
+    "main.acd74716.js.map": "/static/js/main.acd74716.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d13d8e5.css",
+    "static/js/main.acd74716.js"
+  ]
+}
